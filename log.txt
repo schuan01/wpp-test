@@ -1,0 +1,1393 @@
+2018/08/17 13:50:37::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 13:52:06::Metodo(MAIN)::Numero_Contacto(Gonzalo)::Mensaje leido: Hola
+2018/08/17 13:52:06::Metodo(enviar_mensaje)::Numero_Contacto(Gonzalo)::Respondiendo a: Hola
+2018/08/17 13:52:07::Metodo(enviar_mensaje)::Numero_Contacto(Gonzalo)::Respuesta Exitosa
+2018/08/17 13:57:06::Metodo(MAIN)::Numero_Contacto()::----------- INICIO: 17/08/2018 13:57:06  -------------- 
+2018/08/17 13:57:48::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 14:01:01::Metodo(MAIN)::Numero_Contacto()::----------- INICIO: 17/08/2018 14:01:01  -------------- 
+2018/08/17 14:01:06::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 14:01:07::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 14:01:15::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 14:01:15::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 14:01:15::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 14:01:16::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 14:01:42::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 14:50:45::Metodo(MAIN)::Numero_Contacto()::----------- INICIO: 17/08/2018 14:50:45  -------------- 
+2018/08/17 14:50:55::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 14:51:00::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 14:51:00::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 14:51:00::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 14:51:15::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 14:51:16::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 14:51:16::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 14:51:17::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 14:51:49::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 14:51:50::Metodo(MAIN)::Numero_Contacto(Gonzalo)::Mensaje leido: Hola
+2018/08/17 14:51:50::Metodo(enviar_mensaje)::Numero_Contacto(Gonzalo)::Respondiendo a: Hola
+2018/08/17 14:51:50::Metodo(enviar_mensaje)::Numero_Contacto(Gonzalo)::Respuesta Exitosa
+2018/08/17 14:54:28::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 14:54:34::Metodo(MAIN)::Numero_Contacto(Gonzalo)::El numero de contacto Gonzalo es diferente al seleccionado en el click +598 98 954 749 (SE VA A REINTENTAR)
+2018/08/17 14:54:36::Metodo(MAIN)::Numero_Contacto(Gonzalo)::Mensaje leido: Hola
+2018/08/17 14:54:36::Metodo(enviar_mensaje)::Numero_Contacto(Gonzalo)::Respondiendo a: Hola
+2018/08/17 14:54:36::Metodo(enviar_mensaje)::Numero_Contacto(Gonzalo)::Respuesta Exitosa
+2018/08/17 14:55:13::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 15:16:07::Metodo(MAIN)::Numero_Contacto()::----------- INICIO: 17/08/2018 15:16:07  -------------- 
+2018/08/17 15:17:02::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 15:17:03::Metodo(Exception get_mensajes())::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"Tkt2p"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57417}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 64c941688040a27095b8fc9bd31d5b88
+*** Element info: {Using=class name, value=Tkt2p}
+2018/08/17 15:17:03::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 15:17:03::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 15:17:03::Metodo(Exception get_mensajes())::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"Tkt2p"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57417}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 64c941688040a27095b8fc9bd31d5b88
+*** Element info: {Using=class name, value=Tkt2p}
+2018/08/17 15:17:03::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 15:17:03::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 15:17:03::Metodo(Exception get_mensajes())::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"Tkt2p"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57417}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 64c941688040a27095b8fc9bd31d5b88
+*** Element info: {Using=class name, value=Tkt2p}
+2018/08/17 15:17:03::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 15:17:03::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 15:17:03::Metodo(Exception get_mensajes())::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"Tkt2p"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57417}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 64c941688040a27095b8fc9bd31d5b88
+*** Element info: {Using=class name, value=Tkt2p}
+2018/08/17 15:17:03::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 15:17:03::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 15:17:04::Metodo(Exception get_mensajes())::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"Tkt2p"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57417}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 64c941688040a27095b8fc9bd31d5b88
+*** Element info: {Using=class name, value=Tkt2p}
+2018/08/17 15:17:04::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 15:17:04::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 15:17:04::Metodo(Exception get_mensajes())::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"Tkt2p"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57417}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 64c941688040a27095b8fc9bd31d5b88
+*** Element info: {Using=class name, value=Tkt2p}
+2018/08/17 15:17:04::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 15:21:38::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 15:22:27::Metodo(Exception get_mensajes())::Numero_Contacto()::stale element reference: element is not attached to the page document
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57417}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 64c941688040a27095b8fc9bd31d5b88
+*** Element info: {Using=class name, value=Tkt2p}
+2018/08/17 15:22:40::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 16:00:05::Metodo(MAIN)::Numero_Contacto()::----------- INICIO: 17/08/2018 16:00:05  -------------- 
+2018/08/17 16:00:37::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:00:44::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 16:01:03::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:03:17::Metodo(MAIN)::Numero_Contacto()::----------- INICIO: 17/08/2018 16:03:17  -------------- 
+2018/08/17 16:03:28::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:03:44::Metodo(Exception get_mensajes())::Numero_Contacto()::no such element: Unable to locate element: {"method":"xpath","selector":"/div"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49168}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 9459133f9ec9505d9842b4f41ebd0379
+*** Element info: {Using=xpath, value=/div}
+2018/08/17 16:06:20::Metodo(MAIN)::Numero_Contacto()::----------- INICIO: 17/08/2018 16:06:20  -------------- 
+2018/08/17 16:06:38::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:07:04::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 16:07:04::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 16:07:05::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 16:07:20::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:07:22::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 16:07:22::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 16:07:22::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 16:10:19::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:10:19::Metodo(Exception get_mensajes())::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"Tkt2p"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49568}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 0b2e7eb28ab505813f492f5b85e3e305
+*** Element info: {Using=class name, value=Tkt2p}
+2018/08/17 16:10:19::Metodo(MAIN)::Numero_Contacto(Gonzalo)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 16:10:19::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:10:20::Metodo(Exception get_mensajes())::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"Tkt2p"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49568}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 0b2e7eb28ab505813f492f5b85e3e305
+*** Element info: {Using=class name, value=Tkt2p}
+2018/08/17 16:10:20::Metodo(MAIN)::Numero_Contacto(Gonzalo)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 16:10:20::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:10:20::Metodo(Exception get_mensajes())::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"Tkt2p"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49568}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 0b2e7eb28ab505813f492f5b85e3e305
+*** Element info: {Using=class name, value=Tkt2p}
+2018/08/17 16:10:20::Metodo(MAIN)::Numero_Contacto(Gonzalo)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 16:10:23::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:10:24::Metodo(Exception get_mensajes())::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"Tkt2p"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49568}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 0b2e7eb28ab505813f492f5b85e3e305
+*** Element info: {Using=class name, value=Tkt2p}
+2018/08/17 16:10:24::Metodo(MAIN)::Numero_Contacto(Gonzalo)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 16:10:24::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:10:24::Metodo(Exception get_mensajes())::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"Tkt2p"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49568}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 0b2e7eb28ab505813f492f5b85e3e305
+*** Element info: {Using=class name, value=Tkt2p}
+2018/08/17 16:10:24::Metodo(MAIN)::Numero_Contacto(Gonzalo)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 16:10:24::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:10:24::Metodo(Exception get_mensajes())::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"Tkt2p"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49568}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 0b2e7eb28ab505813f492f5b85e3e305
+*** Element info: {Using=class name, value=Tkt2p}
+2018/08/17 16:10:24::Metodo(MAIN)::Numero_Contacto(Gonzalo)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 16:10:24::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:10:25::Metodo(Exception get_mensajes())::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"Tkt2p"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49568}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 0b2e7eb28ab505813f492f5b85e3e305
+*** Element info: {Using=class name, value=Tkt2p}
+2018/08/17 16:10:25::Metodo(MAIN)::Numero_Contacto(Gonzalo)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 16:27:58::Metodo(MAIN)::Numero_Contacto()::----------- INICIO: 17/08/2018 16:27:58  -------------- 
+2018/08/17 16:29:44::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:30:04::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 16:30:04::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 16:30:04::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 16:30:53::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:30:54::Metodo(MAIN)::Numero_Contacto(Gonzalo)::Mensaje leido: Hola
+2018/08/17 16:30:54::Metodo(enviar_mensaje)::Numero_Contacto(Gonzalo)::Respondiendo a: Hola
+2018/08/17 16:30:55::Metodo(enviar_mensaje)::Numero_Contacto(Gonzalo)::Respuesta Exitosa
+2018/08/17 16:31:14::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:31:16::Metodo(MAIN)::Numero_Contacto(Gonzalo)::Mensaje leido: Hola
+2018/08/17 16:31:16::Metodo(enviar_mensaje)::Numero_Contacto(Gonzalo)::Respondiendo a: Hola
+2018/08/17 16:31:16::Metodo(enviar_mensaje)::Numero_Contacto(Gonzalo)::Respuesta Exitosa
+2018/08/17 16:31:16::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:31:18::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 16:31:18::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 16:31:18::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 16:31:37::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:31:38::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Adjunto
+2018/08/17 16:31:38::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Enviando adjunto
+2018/08/17 16:31:38::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Adjunto
+2018/08/17 16:31:39::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 16:31:39::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Adjutando documento
+2018/08/17 16:31:39::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Adjunto exitoso del documento
+2018/08/17 16:31:39::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Esperando a que cargue el boton de Enviar
+2018/08/17 16:31:40::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Boton cargado
+2018/08/17 16:31:40::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Enviando
+2018/08/17 16:31:40::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Envio exitoso de adjunto
+2018/08/17 16:31:40::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Cerrando Menu
+2018/08/17 16:31:45::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Cerrado correctamente
+2018/08/17 16:31:52::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:31:54::Metodo(MAIN)::Numero_Contacto(Gonzalo)::Mensaje leido: Adjunto
+2018/08/17 16:31:54::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Enviando adjunto
+2018/08/17 16:31:54::Metodo(enviar_mensaje)::Numero_Contacto(Gonzalo)::Respondiendo a: Adjunto
+2018/08/17 16:31:54::Metodo(enviar_mensaje)::Numero_Contacto(Gonzalo)::Respuesta Exitosa
+2018/08/17 16:31:54::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Adjutando documento
+2018/08/17 16:31:54::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Adjunto exitoso del documento
+2018/08/17 16:31:54::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Esperando a que cargue el boton de Enviar
+2018/08/17 16:31:55::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Boton cargado
+2018/08/17 16:31:55::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Enviando
+2018/08/17 16:31:55::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Envio exitoso de adjunto
+2018/08/17 16:31:55::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Cerrando Menu
+2018/08/17 16:31:55::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Cerrado correctamente
+2018/08/17 16:32:07::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:32:09::Metodo(MAIN)::Numero_Contacto(Gonzalo)::Mensaje leido: Adjunto
+2018/08/17 16:32:09::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Enviando adjunto
+2018/08/17 16:32:09::Metodo(enviar_mensaje)::Numero_Contacto(Gonzalo)::Respondiendo a: Adjunto
+2018/08/17 16:32:09::Metodo(enviar_mensaje)::Numero_Contacto(Gonzalo)::Respuesta Exitosa
+2018/08/17 16:32:09::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Adjutando documento
+2018/08/17 16:32:09::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Adjunto exitoso del documento
+2018/08/17 16:32:09::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Esperando a que cargue el boton de Enviar
+2018/08/17 16:32:10::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Boton cargado
+2018/08/17 16:32:10::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Enviando
+2018/08/17 16:32:10::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Envio exitoso de adjunto
+2018/08/17 16:32:10::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Cerrando Menu
+2018/08/17 16:32:10::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Cerrado correctamente
+2018/08/17 16:32:37::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:32:39::Metodo(MAIN)::Numero_Contacto(Gonzalo)::Mensaje leido: Adjunto
+2018/08/17 16:32:39::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Enviando adjunto
+2018/08/17 16:32:39::Metodo(enviar_mensaje)::Numero_Contacto(Gonzalo)::Respondiendo a: Adjunto
+2018/08/17 16:32:39::Metodo(enviar_mensaje)::Numero_Contacto(Gonzalo)::Respuesta Exitosa
+2018/08/17 16:32:40::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Adjutando documento
+2018/08/17 16:32:40::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Adjunto exitoso del documento
+2018/08/17 16:32:40::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Esperando a que cargue el boton de Enviar
+2018/08/17 16:32:41::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Boton cargado
+2018/08/17 16:32:41::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Enviando
+2018/08/17 16:32:41::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Envio exitoso de adjunto
+2018/08/17 16:32:41::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Cerrando Menu
+2018/08/17 16:32:41::Metodo(enviar_adjunto)::Numero_Contacto(Gonzalo)::Cerrado correctamente
+2018/08/17 16:32:41::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:32:41::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Gonzalo (SE VA A REINTENTAR)
+2018/08/17 16:32:42::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Gonzalo (SE VA A REINTENTAR)
+2018/08/17 16:32:43::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Adjunto
+2018/08/17 16:32:43::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Enviando adjunto
+2018/08/17 16:32:43::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Adjunto
+2018/08/17 16:32:43::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 16:32:43::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Adjutando documento
+2018/08/17 16:32:43::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Adjunto exitoso del documento
+2018/08/17 16:32:43::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Esperando a que cargue el boton de Enviar
+2018/08/17 16:32:44::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Boton cargado
+2018/08/17 16:32:44::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Enviando
+2018/08/17 16:32:44::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Envio exitoso de adjunto
+2018/08/17 16:32:44::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Cerrando Menu
+2018/08/17 16:32:45::Metodo(enviar_adjunto)::Numero_Contacto(+598 98 954 749)::Cerrado correctamente
+2018/08/17 16:37:54::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:37:55::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 16:37:55::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 16:37:55::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 16:38:02::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:38:03::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Gato
+2018/08/17 16:38:03::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:38:04::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Gato
+2018/08/17 16:38:12::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:38:13::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Gato
+2018/08/17 16:38:14::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:38:14::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Gato
+2018/08/17 16:38:42::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:38:44::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Como estas hola
+2018/08/17 16:39:52::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:39:54::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Sjfjakakak kskssk hola
+2018/08/17 16:41:24::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:41:26::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 16:41:26::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 16:41:26::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 16:41:27::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 2
+2018/08/17 16:41:28::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 16:41:29::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: HOLA
+2018/08/17 16:41:29::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: HOLA
+2018/08/17 16:41:29::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 16:41:35::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:41:36::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 16:41:36::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 16:41:37::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 16:44:29::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:44:34::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 16:44:41::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 16:44:41::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 16:44:41::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 16:44:41::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:44:47::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 16:51:43::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:51:48::Metodo(MAIN)::Numero_Contacto(Seba)::El numero de contacto Seba es diferente al seleccionado en el click +598 98 954 749 (SE VA A REINTENTAR)
+2018/08/17 16:51:55::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 16:51:55::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 16:51:55::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 16:52:06::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:52:13::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 16:52:13::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 16:52:13::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 16:52:13::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:52:20::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 16:54:00::Metodo(MAIN)::Numero_Contacto()::----------- INICIO: 17/08/2018 16:54:00  -------------- 
+2018/08/17 16:55:38::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:55:43::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 16:55:45::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 16:55:45::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 16:55:45::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 16:56:03::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:56:05::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 16:56:05::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 16:56:05::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 16:56:15::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:56:16::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 16:56:16::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 16:56:16::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 16:56:24::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:56:26::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 16:56:26::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 16:56:26::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 16:56:32::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:56:33::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Djdkskk hola jdjdj
+2018/08/17 16:56:33::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Djdkskk hola jdjdj
+2018/08/17 16:56:34::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 16:56:34::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:56:35::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 16:56:35::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:56:36::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 16:56:56::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:56:58::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Gato gato
+2018/08/17 16:57:06::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:57:07::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 16:57:07::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 16:57:08::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 16:57:21::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 16:57:21::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Alex (SE VA A REINTENTAR)
+2018/08/17 17:02:42::Metodo(MAIN)::Numero_Contacto()::----------- INICIO: 17/08/2018 17:02:42  -------------- 
+2018/08/17 17:07:31::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:07:37::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Test
+2018/08/17 17:07:37::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:07:44::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Test
+2018/08/17 17:07:50::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:07:56::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 17:07:56::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 17:07:57::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 17:08:12::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:08:13::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Alex (SE VA A REINTENTAR)
+2018/08/17 17:09:52::Metodo(MAIN)::Numero_Contacto()::----------- INICIO: 17/08/2018 17:09:52  -------------- 
+2018/08/17 17:09:52::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:12:59::Metodo(MAIN)::Numero_Contacto()::----------- INICIO: 17/08/2018 17:12:59  -------------- 
+2018/08/17 17:13:26::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:13:26::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Alex (SE VA A REINTENTAR)
+2018/08/17 17:13:26::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Alex (SE VA A REINTENTAR)
+2018/08/17 17:13:27::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Alex (SE VA A REINTENTAR)
+2018/08/17 17:13:28::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 17:13:28::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 17:13:28::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 17:15:09::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:15:09::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click +598 99 629 996 (SE VA A REINTENTAR)
+2018/08/17 17:15:09::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click +598 99 629 996 (SE VA A REINTENTAR)
+2018/08/17 17:15:11::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 17:15:11::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 17:15:11::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 17:15:21::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:15:22::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 17:15:22::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 17:15:22::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 17:17:04::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:17:04::Metodo(MAIN)::Numero_Contacto(Seba)::El numero de contacto Seba es diferente al seleccionado en el click +598 99 629 996 (SE VA A REINTENTAR)
+2018/08/17 17:17:04::Metodo(MAIN)::Numero_Contacto(Seba)::El numero de contacto Seba es diferente al seleccionado en el click +598 99 629 996 (SE VA A REINTENTAR)
+2018/08/17 17:17:04::Metodo(MAIN)::Numero_Contacto(Seba)::El numero de contacto Seba es diferente al seleccionado en el click +598 99 629 996 (SE VA A REINTENTAR)
+2018/08/17 17:17:04::Metodo(MAIN)::Numero_Contacto(Seba)::El numero de contacto Seba es diferente al seleccionado en el click +598 99 629 996 (SE VA A REINTENTAR)
+2018/08/17 17:17:06::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: HOLA
+2018/08/17 17:17:06::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: HOLA
+2018/08/17 17:17:06::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:17:11::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:17:12::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:17:12::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:17:12::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:17:32::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:17:34::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:17:34::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:17:34::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:17:35::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:17:37::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:17:37::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:17:37::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:20:50::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:20:53::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:20:53::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:20:53::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:21:05::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:21:06::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: adjunto
+2018/08/17 17:21:06::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Enviando adjunto
+2018/08/17 17:21:06::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: adjunto
+2018/08/17 17:21:06::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:21:06::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Adjutando documento
+2018/08/17 17:21:06::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Adjunto exitoso del documento
+2018/08/17 17:21:06::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Esperando a que cargue el boton de Enviar
+2018/08/17 17:21:08::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Boton cargado
+2018/08/17 17:21:08::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Enviando
+2018/08/17 17:21:08::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Envio exitoso de adjunto
+2018/08/17 17:21:08::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Cerrando Menu
+2018/08/17 17:21:08::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Cerrado correctamente
+2018/08/17 17:21:10::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:21:10::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:10::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:10::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:10::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:10::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:12::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 17:21:12::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 17:21:12::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 17:21:15::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:21:15::Metodo(MAIN)::Numero_Contacto(Seba)::El numero de contacto Seba es diferente al seleccionado en el click +598 98 954 749 (SE VA A REINTENTAR)
+2018/08/17 17:21:16::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: adjunto
+2018/08/17 17:21:16::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Enviando adjunto
+2018/08/17 17:21:16::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: adjunto
+2018/08/17 17:21:16::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:21:16::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Adjutando documento
+2018/08/17 17:21:16::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Adjunto exitoso del documento
+2018/08/17 17:21:16::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Esperando a que cargue el boton de Enviar
+2018/08/17 17:21:18::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Boton cargado
+2018/08/17 17:21:18::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Enviando
+2018/08/17 17:21:18::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Envio exitoso de adjunto
+2018/08/17 17:21:18::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Cerrando Menu
+2018/08/17 17:21:18::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Cerrado correctamente
+2018/08/17 17:21:18::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:21:19::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: adjunto
+2018/08/17 17:21:19::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Enviando adjunto
+2018/08/17 17:21:19::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: adjunto
+2018/08/17 17:21:19::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:21:19::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Adjutando documento
+2018/08/17 17:21:19::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Adjunto exitoso del documento
+2018/08/17 17:21:19::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Esperando a que cargue el boton de Enviar
+2018/08/17 17:21:21::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Boton cargado
+2018/08/17 17:21:21::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Enviando
+2018/08/17 17:21:21::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Envio exitoso de adjunto
+2018/08/17 17:21:21::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Cerrando Menu
+2018/08/17 17:21:21::Metodo(enviar_adjunto)::Numero_Contacto(Seba)::Cerrado correctamente
+2018/08/17 17:21:21::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:21:21::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:21::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:21::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:21::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:21::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:21::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:21::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:21::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:21::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:22::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:22::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:22::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:22::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::El numero de contacto +598 98 954 749 es diferente al seleccionado en el click Seba (SE VA A REINTENTAR)
+2018/08/17 17:21:23::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 17:21:23::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 17:21:23::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 17:21:57::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:21:57::Metodo(MAIN)::Numero_Contacto(Seba)::El numero de contacto Seba es diferente al seleccionado en el click +598 98 954 749 (SE VA A REINTENTAR)
+2018/08/17 17:21:58::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:21:58::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:21:58::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:21:59::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:21:59::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:22:00::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:22:00::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:22:00::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:22:01::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:22:01::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:22:02::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:22:02::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 2
+2018/08/17 17:22:04::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 17:22:04::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 17:22:04::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 17:22:05::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:22:05::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:22:06::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:22:06::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:22:07::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:22:07::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 2
+2018/08/17 17:22:09::Metodo(MAIN)::Numero_Contacto(+598 98 954 749)::Mensaje leido: Hola
+2018/08/17 17:22:09::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respondiendo a: Hola
+2018/08/17 17:22:09::Metodo(enviar_mensaje)::Numero_Contacto(+598 98 954 749)::Respuesta Exitosa
+2018/08/17 17:22:11::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:22:11::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:22:11::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:22:20::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:22:21::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:22:21::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:22:21::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:22:21::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:22:23::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:22:23::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:22:24::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:22:24::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:22:24::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:22:45::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:22:48::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: holahola
+2018/08/17 17:22:48::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: holahola
+2018/08/17 17:22:48::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:22:48::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:22:48::Metodo(Exception get_mensajes())::Numero_Contacto()::stale element reference: element is not attached to the page document
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57434}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: a49cb7fc18263e879955d070fc30f698
+*** Element info: {Using=class name, value=message-out}
+2018/08/17 17:22:48::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:22:48::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:22:50::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:22:50::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:22:50::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:22:50::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:22:52::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:23:00::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:23:01::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:23:01::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:23:02::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:23:02::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:23:03::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:23:03::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:23:03::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:23:04::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:23:05::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:23:05::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:23:05::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:23:05::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:23:07::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:23:07::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:23:09::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:23:09::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:23:09::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:23:09::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:23:11::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:24:27::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:27::Metodo(Exception get_mensajes())::Numero_Contacto()::stale element reference: element is not attached to the page document
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57434}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: a49cb7fc18263e879955d070fc30f698
+2018/08/17 17:24:27::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:24:27::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:29::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:24:29::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:24:30::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:24:30::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:31::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:24:31::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:33::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:24:33::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:24:33::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:24:33::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:35::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:24:35::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:24:35::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:24:35::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:37::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:24:37::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:38::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: holahola
+2018/08/17 17:24:38::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: holahola
+2018/08/17 17:24:39::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:24:39::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:40::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:24:40::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:24:41::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:24:41::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:42::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:24:42::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:44::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:24:44::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:24:44::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:24:44::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:46::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:24:46::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:24:46::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:24:46::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:48::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:24:48::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:49::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:24:49::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:24:49::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:24:50::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:51::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:24:51::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:53::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:24:53::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:24:53::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:24:53::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:55::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:24:55::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:56::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:24:56::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:24:56::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:24:57::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:24:59::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:24:59::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:24:59::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:24:59::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:25:00::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:25:01::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:25:02::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: hola
+2018/08/17 17:25:02::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: hola
+2018/08/17 17:25:02::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/17 17:25:02::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:25:04::Metodo(MAIN)::Numero_Contacto(Seba)::No encontro msj valido(enviaron una imagen o un emoji o era repetido)
+2018/08/17 17:25:04::Metodo(MAIN)::Numero_Contacto()::Total de mensajes nuevos encontrados: 1
+2018/08/17 17:25:06::Metodo(MAIN)::Numero_Contacto(Seba)::Mensaje leido: holaholahola
+2018/08/17 17:25:06::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respondiendo a: holaholahola
+2018/08/17 17:25:06::Metodo(enviar_mensaje)::Numero_Contacto(Seba)::Respuesta Exitosa
+2018/08/20 16:04:30::Metodo(enviar_mensaje_ya_escrito Exception)::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"_2S1VP"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60330}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 428da6932612f01648416e412939d23b
+*** Element info: {Using=class name, value=_2S1VP}
+2018/08/20 16:04:30::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Enviando adjunto
+2018/08/20 16:04:30::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/20 16:04:30::Metodo(enviar_mensaje Exception)::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"_2S1VP"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60330}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 428da6932612f01648416e412939d23b
+*** Element info: {Using=class name, value=_2S1VP}
+2018/08/20 16:06:55::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/20 16:06:55::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Enviando adjunto
+2018/08/20 16:06:55::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/20 16:06:55::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/20 16:06:55::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/20 16:06:55::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/20 16:06:55::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/20 16:06:56::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/20 16:06:56::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Enviando
+2018/08/20 16:06:57::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/20 16:06:57::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/20 16:06:57::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/20 16:07:02::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/20 16:07:02::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Enviando adjunto
+2018/08/20 16:07:02::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/20 16:07:02::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/20 16:07:02::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/20 16:07:02::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/20 16:07:02::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/20 16:07:03::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/20 16:07:03::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Enviando
+2018/08/20 16:07:03::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/20 16:07:03::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/20 16:07:03::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/20 16:52:23::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/20 16:52:23::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Enviando adjunto
+2018/08/20 16:52:23::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/20 16:52:24::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/20 16:52:24::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/20 16:52:24::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/20 16:52:24::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/20 16:52:25::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/20 16:52:25::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Enviando
+2018/08/20 16:52:25::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/20 16:52:25::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/20 16:52:25::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/20 16:56:21::Metodo(enviar_mensaje_ya_escrito Exception)::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"_2S1VP"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52353}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 0ff1a532e41c0be9ed9f0162d57164e8
+*** Element info: {Using=class name, value=_2S1VP}
+2018/08/20 16:56:21::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Enviando adjunto
+2018/08/20 16:56:21::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/20 16:56:21::Metodo(enviar_mensaje Exception)::Numero_Contacto()::no such element: Unable to locate element: {"method":"class name","selector":"_2S1VP"}
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52353}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 0ff1a532e41c0be9ed9f0162d57164e8
+*** Element info: {Using=class name, value=_2S1VP}
+2018/08/20 17:00:00::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/20 17:00:00::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Enviando adjunto
+2018/08/20 17:00:00::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/20 17:00:01::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/20 17:00:01::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/20 17:00:01::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/20 17:00:01::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/20 17:00:02::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/20 17:00:02::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Enviando
+2018/08/20 17:00:02::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/20 17:00:02::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/20 17:00:02::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/20 17:00:03::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/20 17:00:03::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/20 17:09:52::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/20 17:09:52::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Enviando adjunto
+2018/08/20 17:09:52::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/20 17:09:52::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/20 17:09:52::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/20 17:09:52::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/20 17:09:52::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/20 17:09:54::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/20 17:09:54::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Enviando
+2018/08/20 17:09:54::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/20 17:09:54::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/20 17:09:54::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/20 17:09:55::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/20 17:09:55::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/20 17:12:13::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/20 17:12:13::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Enviando adjunto
+2018/08/20 17:12:13::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/20 17:12:13::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/20 17:12:14::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/20 17:12:14::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/20 17:12:14::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/20 17:12:15::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/20 17:12:15::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Enviando
+2018/08/20 17:12:15::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/20 17:12:15::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/20 17:12:15::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/20 17:12:16::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/20 17:12:16::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/20 17:14:23::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/20 17:14:24::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/20 17:14:24::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/20 17:14:24::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/20 17:14:24::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/20 17:14:24::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/20 17:14:24::Metodo(enviar_adjunto)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/20 17:14:25::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/20 17:14:25::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/20 17:14:26::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/20 17:14:26::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/20 17:14:26::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/20 17:14:27::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/20 17:14:27::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/20 17:22:59::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/20 17:23:00::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/20 17:23:00::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/20 17:23:00::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/20 17:23:00::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/20 17:23:00::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/20 17:23:00::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/20 17:23:01::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/20 17:23:01::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/20 17:23:01::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/20 17:23:01::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/20 17:23:02::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/20 17:23:02::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/20 17:23:02::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/20 17:27:45::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/20 17:27:45::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/20 17:27:45::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/20 17:27:45::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/20 17:27:45::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/20 17:27:45::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/20 17:27:45::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/20 17:27:46::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/20 17:27:46::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/20 17:27:46::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/20 17:27:46::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/20 17:27:46::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/20 17:27:48::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/20 17:27:48::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/20 17:27:48::Metodo(MAIN ENVIAR MASIVO)::Numero_Contacto()::unexpected alert open: {Alert text : }
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56149}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: eca6e604b6e62f19a8c6787396136d12
+*** Element info: {Using=id, value=action-button}
+2018/08/20 17:35:31::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/20 17:35:31::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/20 17:35:31::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/20 17:35:32::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/20 17:35:32::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/20 17:35:32::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/20 17:35:32::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/20 17:35:33::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/20 17:35:33::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/20 17:35:33::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/20 17:35:33::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/20 17:35:33::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/20 17:35:35::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/20 17:35:35::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/20 17:35:35::Metodo(MAIN ENVIAR MASIVO)::Numero_Contacto()::unexpected alert open: {Alert text : }
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57130}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: df29df813b7eadf2295ab3d51a793bee
+*** Element info: {Using=id, value=action-button}
+2018/08/20 17:48:16::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/20 17:48:16::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/20 17:48:16::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/20 17:48:17::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/20 17:48:17::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/20 17:48:17::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/20 17:48:17::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/20 17:48:18::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/20 17:48:18::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/20 17:48:18::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/20 17:48:18::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/20 17:48:18::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/20 17:48:20::Metodo(MAIN ENVIAR MASIVO)::Numero_Contacto()::unexpected alert open: {Alert text : }
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59146}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: e2cb4b47c1387e424fa2fdbc21bb0f55
+*** Element info: {Using=id, value=action-button}
+2018/08/21 12:51:04::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 12:51:04::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 12:51:04::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 12:51:05::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 12:51:05::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/21 12:51:05::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 12:51:05::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 12:51:06::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 12:51:06::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 12:51:06::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 12:51:06::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 12:51:06::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 12:53:07::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 12:53:07::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 12:53:07::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 12:53:07::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 12:53:07::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/21 12:53:07::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 12:53:07::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 12:53:08::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 12:53:08::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 12:53:08::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 12:53:08::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 12:53:08::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 12:53:10::Metodo(MAIN ENVIAR MASIVO)::Numero_Contacto()::unexpected alert open: {Alert text : }
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64964}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 8aa0e53adcdffed70ad9d1793483a662
+*** Element info: {Using=id, value=action-button}
+2018/08/21 13:03:13::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::------- INICIO ENVIO MASIVO: 21/08/2018 13:03:13  --------- 
+2018/08/21 13:03:20::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 13:03:20::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 13:03:20::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 13:03:21::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 13:03:21::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/21 13:03:21::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 13:03:21::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 13:03:22::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 13:03:22::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 13:03:22::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 13:03:22::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 13:03:22::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 13:03:24::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::YA ESPERO
+2018/08/21 13:03:25::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/21 13:03:26::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/21 13:03:30::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 13:03:30::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 13:03:30::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 13:03:31::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 13:03:31::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/21 13:03:31::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 13:03:31::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 13:03:32::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 13:03:32::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 13:03:32::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 13:03:32::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 13:03:32::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 13:03:34::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::YA ESPERO
+2018/08/21 13:03:35::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/21 13:03:35::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/21 13:03:39::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 13:03:39::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 13:03:39::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 13:03:40::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 13:03:40::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/21 13:03:40::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 13:03:40::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 13:03:41::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 13:03:41::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 13:03:41::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 13:03:41::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 13:03:41::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 13:03:43::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::YA ESPERO
+2018/08/21 13:03:44::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/21 13:03:44::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/21 13:03:49::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 13:03:49::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 13:03:49::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 13:03:49::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 13:03:49::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/21 13:03:49::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 13:03:49::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 13:03:50::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 13:03:50::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 13:03:50::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 13:03:50::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 13:03:50::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 13:03:52::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::YA ESPERO
+2018/08/21 13:03:54::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/21 13:03:54::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/21 15:01:13::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::------- INICIO ENVIO MASIVO: 21/08/2018 15:01:13  --------- 
+2018/08/21 15:01:23::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 15:01:23::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 15:01:23::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 15:01:23::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 15:01:23::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/21 15:01:23::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 15:01:23::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 15:01:24::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 15:01:24::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 15:01:24::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 15:01:24::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 15:01:24::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 15:01:28::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/21 15:01:28::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/21 15:01:32::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 15:01:32::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 15:01:32::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 15:01:32::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 15:01:32::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/21 15:01:33::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 15:01:33::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 15:01:34::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 15:01:34::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 15:01:34::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 15:01:34::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 15:01:34::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 15:01:37::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/21 15:01:37::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/21 15:01:42::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 15:01:42::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 15:01:42::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 15:01:42::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 15:01:42::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/21 15:01:42::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 15:01:42::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 15:01:43::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 15:01:43::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 15:01:43::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 15:01:43::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 15:01:43::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 15:01:46::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/21 15:01:46::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/21 15:01:51::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 15:01:51::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 15:01:51::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 15:01:51::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 15:01:51::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/21 15:01:51::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 15:01:51::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 15:01:52::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 15:01:52::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 15:01:52::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 15:01:52::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 15:01:52::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 15:01:55::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/21 15:01:55::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/21 15:26:16::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::------- INICIO ENVIO MASIVO: 21/08/2018 15:26:16  --------- 
+2018/08/21 15:26:17::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::Leyendo linea 59898954749;Te voy a enviar un adjunto
+2018/08/21 15:26:17::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Accediendo al sitio 
+2018/08/21 15:26:20::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando el boton enviar 
+2018/08/21 15:26:21::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Boton enviar clickeado 
+2018/08/21 15:26:21::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando hasta que aparezcan los chats 
+2018/08/21 15:26:26::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecieron los chats 
+2018/08/21 15:26:26::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar mensaje ya escrito 
+2018/08/21 15:26:26::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 15:26:26::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar adjunto 
+2018/08/21 15:26:26::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 15:26:26::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 15:26:26::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 15:26:27::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/21 15:26:27::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 15:26:27::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 15:26:28::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 15:26:28::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 15:26:28::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 15:26:28::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 15:26:28::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 15:26:28::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Proceso enviar adjunto termino correctamente 
+2018/08/21 15:26:28::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando 1 segundos para terminar esta lina
+2018/08/21 15:26:29::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Espera terminada 
+2018/08/21 15:26:29::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Obteniendo ultimos mensajes 
+2018/08/21 15:26:30::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Ultimo mensaje obtenido correctamente 
+2018/08/21 15:26:30::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/21 15:26:30::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/21 15:26:30::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::Leyendo linea 59898954749;Te voy a enviar un adjunto
+2018/08/21 15:26:30::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Accediendo al sitio 
+2018/08/21 15:26:30::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando el boton enviar 
+2018/08/21 15:26:30::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Boton enviar clickeado 
+2018/08/21 15:26:30::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando hasta que aparezcan los chats 
+2018/08/21 15:26:34::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecieron los chats 
+2018/08/21 15:26:34::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar mensaje ya escrito 
+2018/08/21 15:26:34::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 15:26:34::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar adjunto 
+2018/08/21 15:26:34::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 15:26:34::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 15:26:34::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 15:26:34::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/21 15:26:34::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 15:26:34::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 15:26:36::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 15:26:36::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 15:26:36::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 15:26:36::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 15:26:36::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 15:26:36::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Proceso enviar adjunto termino correctamente 
+2018/08/21 15:26:36::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando 1 segundos para terminar esta lina
+2018/08/21 15:26:37::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Espera terminada 
+2018/08/21 15:26:37::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Obteniendo ultimos mensajes 
+2018/08/21 15:26:38::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Ultimo mensaje obtenido correctamente 
+2018/08/21 15:26:38::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/21 15:26:39::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/21 15:26:39::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::Leyendo linea 59898954749;Te voy a enviar un adjunto
+2018/08/21 15:26:39::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Accediendo al sitio 
+2018/08/21 15:26:39::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando el boton enviar 
+2018/08/21 15:26:39::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Boton enviar clickeado 
+2018/08/21 15:26:39::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando hasta que aparezcan los chats 
+2018/08/21 15:26:43::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecieron los chats 
+2018/08/21 15:26:43::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar mensaje ya escrito 
+2018/08/21 15:26:43::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 15:26:43::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar adjunto 
+2018/08/21 15:26:43::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 15:26:43::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 15:26:43::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 15:26:43::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/21 15:26:44::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 15:26:44::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 15:26:45::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 15:26:45::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 15:26:45::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 15:26:45::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 15:26:45::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 15:26:45::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Proceso enviar adjunto termino correctamente 
+2018/08/21 15:26:45::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando 1 segundos para terminar esta lina
+2018/08/21 15:26:46::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Espera terminada 
+2018/08/21 15:26:46::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Obteniendo ultimos mensajes 
+2018/08/21 15:26:47::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Ultimo mensaje obtenido correctamente 
+2018/08/21 15:26:47::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/21 15:26:47::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/21 15:26:47::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::Leyendo linea 59898954749;Te voy a enviar un adjunto
+2018/08/21 15:26:47::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Accediendo al sitio 
+2018/08/21 15:26:47::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando el boton enviar 
+2018/08/21 15:26:47::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Boton enviar clickeado 
+2018/08/21 15:26:47::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando hasta que aparezcan los chats 
+2018/08/21 15:26:52::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecieron los chats 
+2018/08/21 15:26:52::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar mensaje ya escrito 
+2018/08/21 15:26:52::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 15:26:52::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar adjunto 
+2018/08/21 15:26:52::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 15:26:52::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 15:26:52::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 15:26:52::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento
+2018/08/21 15:26:52::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 15:26:52::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 15:26:53::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 15:26:53::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 15:26:53::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 15:26:53::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 15:26:53::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 15:26:53::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Proceso enviar adjunto termino correctamente 
+2018/08/21 15:26:53::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando 1 segundos para terminar esta lina
+2018/08/21 15:26:54::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Espera terminada 
+2018/08/21 15:26:54::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Obteniendo ultimos mensajes 
+2018/08/21 15:26:55::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Ultimo mensaje obtenido correctamente 
+2018/08/21 15:26:55::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/21 15:26:56::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/21 15:40:44::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::------- INICIO ENVIO MASIVO: 21/08/2018 15:40:44  --------- 
+2018/08/21 15:40:45::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::Leyendo linea 59898954749;Te voy a enviar un adjunto
+2018/08/21 15:40:45::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Accediendo al sitio 
+2018/08/21 15:40:46::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando el boton enviar 
+2018/08/21 15:40:46::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Boton enviar clickeado 
+2018/08/21 15:40:47::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando hasta que aparezcan los chats 
+2018/08/21 15:40:53::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecieron los chats 
+2018/08/21 15:40:53::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar mensaje ya escrito 
+2018/08/21 15:40:53::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 15:40:53::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar adjunto 
+2018/08/21 15:40:53::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 15:40:53::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 15:40:53::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 15:40:53::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento: C:/Users/jvolpe/Documents/PHP/php-webdriver-community/php-webdriver-community/prueba.jpg
+2018/08/21 15:40:53::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 15:40:53::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 15:40:54::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 15:40:54::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 15:40:55::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 15:40:55::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 15:40:55::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 15:40:55::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Proceso enviar adjunto termino correctamente 
+2018/08/21 15:40:55::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando 1 segundos para terminar esta lina
+2018/08/21 15:40:56::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Espera terminada 
+2018/08/21 15:40:56::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Obteniendo ultimos mensajes 
+2018/08/21 15:40:56::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Ultimo mensaje obtenido correctamente 
+2018/08/21 15:40:57::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/21 15:40:58::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/21 15:40:58::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::ENVIO DE ADJUNTO AL NUMERO 59898954749 FUE UN EXITO
+2018/08/21 15:40:58::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::Leyendo linea 59899984345;Te voy a enviar un adjunto
+2018/08/21 15:40:58::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59899984345)::Accediendo al sitio 
+2018/08/21 15:40:58::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59899984345)::Esperando el boton enviar 
+2018/08/21 15:40:58::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59899984345)::Boton enviar clickeado 
+2018/08/21 15:40:58::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59899984345)::Esperando hasta que aparezcan los chats 
+2018/08/21 15:41:02::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59899984345)::Aparecieron los chats 
+2018/08/21 15:41:02::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59899984345)::Empezando proceso enviar mensaje ya escrito 
+2018/08/21 15:41:02::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59899984345)::Envio de mensaje Exitoso
+2018/08/21 15:41:02::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59899984345)::Empezando proceso enviar adjunto 
+2018/08/21 15:41:02::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59899984345)::Enviando adjunto archivo
+2018/08/21 15:41:02::Metodo(enviar_mensaje)::Numero_Contacto(59899984345)::Respondiendo a: Envio Masivo
+2018/08/21 15:41:02::Metodo(enviar_mensaje)::Numero_Contacto(59899984345)::Respuesta Exitosa
+2018/08/21 15:41:02::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59899984345)::Adjutando documento: C:/Users/jvolpe/Documents/PHP/php-webdriver-community/php-webdriver-community/prueba.jpg
+2018/08/21 15:41:02::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59899984345)::Adjunto exitoso del documento
+2018/08/21 15:41:02::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59899984345)::Esperando a que cargue el boton de Enviar
+2018/08/21 15:41:03::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59899984345)::Boton cargado
+2018/08/21 15:41:03::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59899984345)::Enviando
+2018/08/21 15:41:04::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59899984345)::Envio exitoso de adjunto
+2018/08/21 15:41:04::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59899984345)::Cerrando Menu
+2018/08/21 15:41:04::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59899984345)::Cerrado correctamente
+2018/08/21 15:41:04::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59899984345)::Proceso enviar adjunto termino correctamente 
+2018/08/21 15:41:04::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59899984345)::Esperando 1 segundos para terminar esta lina
+2018/08/21 15:41:05::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59899984345)::Espera terminada 
+2018/08/21 15:41:05::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59899984345)::Obteniendo ultimos mensajes 
+2018/08/21 15:41:06::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59899984345)::Ultimo mensaje obtenido correctamente 
+2018/08/21 15:41:06::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59899984345)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/21 15:41:07::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59899984345)::Aparecio el check en el ultimo mensaje
+2018/08/21 15:41:07::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59899984345)::ENVIO DE ADJUNTO AL NUMERO 59899984345 FUE UN EXITO
+2018/08/21 15:41:07::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::Leyendo linea 59898954749;Te voy a enviar un adjunto
+2018/08/21 15:41:07::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Accediendo al sitio 
+2018/08/21 15:41:07::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando el boton enviar 
+2018/08/21 15:41:07::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Boton enviar clickeado 
+2018/08/21 15:41:07::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando hasta que aparezcan los chats 
+2018/08/21 15:41:12::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecieron los chats 
+2018/08/21 15:41:12::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar mensaje ya escrito 
+2018/08/21 15:41:12::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 15:41:12::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar adjunto 
+2018/08/21 15:41:12::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 15:41:12::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 15:41:12::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 15:41:12::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento: C:/Users/jvolpe/Documents/PHP/php-webdriver-community/php-webdriver-community/prueba.jpg
+2018/08/21 15:41:12::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 15:41:12::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 15:41:13::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 15:41:13::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 15:41:13::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 15:41:13::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 15:41:13::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 15:41:13::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Proceso enviar adjunto termino correctamente 
+2018/08/21 15:41:13::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando 1 segundos para terminar esta lina
+2018/08/21 15:41:14::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Espera terminada 
+2018/08/21 15:41:14::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Obteniendo ultimos mensajes 
+2018/08/21 15:41:15::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Ultimo mensaje obtenido correctamente 
+2018/08/21 15:41:15::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/21 15:41:16::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/21 15:41:16::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::ENVIO DE ADJUNTO AL NUMERO 59898954749 FUE UN EXITO
+2018/08/21 15:41:16::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::Leyendo linea 59898954749;Te voy a enviar un adjunto
+2018/08/21 15:41:16::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Accediendo al sitio 
+2018/08/21 15:41:16::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando el boton enviar 
+2018/08/21 15:41:16::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Boton enviar clickeado 
+2018/08/21 15:41:16::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando hasta que aparezcan los chats 
+2018/08/21 15:41:21::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecieron los chats 
+2018/08/21 15:41:21::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar mensaje ya escrito 
+2018/08/21 15:41:21::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/21 15:41:21::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar adjunto 
+2018/08/21 15:41:21::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/21 15:41:21::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/21 15:41:21::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/21 15:41:21::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento: C:/Users/jvolpe/Documents/PHP/php-webdriver-community/php-webdriver-community/prueba.jpg
+2018/08/21 15:41:21::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/21 15:41:21::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/21 15:41:22::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/21 15:41:22::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/21 15:41:22::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/21 15:41:22::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/21 15:41:22::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/21 15:41:22::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Proceso enviar adjunto termino correctamente 
+2018/08/21 15:41:22::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando 1 segundos para terminar esta lina
+2018/08/21 15:41:23::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Espera terminada 
+2018/08/21 15:41:23::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Obteniendo ultimos mensajes 
+2018/08/21 15:41:25::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Ultimo mensaje obtenido correctamente 
+2018/08/21 15:41:25::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/21 15:41:25::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/21 15:41:25::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::ENVIO DE ADJUNTO AL NUMERO 59898954749 FUE UN EXITO
+2018/08/21 15:49:54::Metodo(MAIN ENVIAR MASIVO)::Numero_Contacto()::Expected condition failed: waiting for visibility of element located by By.className: _3q4NP (tried for 60 second(s) with 500 milliseconds interval)
+2018/08/28 10:40:35::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::------- INICIO ENVIO MASIVO: 28/08/2018 10:40:35  --------- 
+2018/08/28 10:40:35::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::Leyendo linea 59898954749;Te voy a enviar un adjunto
+2018/08/28 10:40:35::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Accediendo al sitio 
+2018/08/28 10:40:37::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando el boton enviar 
+2018/08/28 10:40:37::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Boton enviar clickeado 
+2018/08/28 10:40:37::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando hasta que aparezcan los chats 
+2018/08/28 10:40:44::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecieron los chats 
+2018/08/28 10:40:44::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar mensaje ya escrito 
+2018/08/28 10:40:44::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/28 10:40:44::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar adjunto 
+2018/08/28 10:40:44::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/28 10:40:44::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/28 10:40:45::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/28 10:40:45::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento: C:/Users/jvolpe/Documents/PHP/php-webdriver-community/php-webdriver-community/prueba.jpg
+2018/08/28 10:40:45::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/28 10:40:45::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/28 10:40:46::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/28 10:40:46::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/28 10:40:46::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/28 10:40:46::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/28 10:40:46::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/28 10:40:46::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Proceso enviar adjunto termino correctamente 
+2018/08/28 10:40:46::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando 1 segundos para terminar esta lina
+2018/08/28 10:40:47::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Espera terminada 
+2018/08/28 10:40:47::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Obteniendo ultimos mensajes 
+2018/08/28 10:40:48::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Ultimo mensaje obtenido correctamente 
+2018/08/28 10:40:48::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/28 10:40:50::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/28 10:40:50::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::ENVIO DE ADJUNTO AL NUMERO 59898954749 FUE UN EXITO
+2018/08/28 10:40:50::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::Leyendo linea 59898954749;Te voy a enviar un adjunto
+2018/08/28 10:40:50::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Accediendo al sitio 
+2018/08/28 10:40:50::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando el boton enviar 
+2018/08/28 10:40:50::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Boton enviar clickeado 
+2018/08/28 10:40:50::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando hasta que aparezcan los chats 
+2018/08/28 10:40:54::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecieron los chats 
+2018/08/28 10:40:54::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar mensaje ya escrito 
+2018/08/28 10:40:55::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/28 10:40:55::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar adjunto 
+2018/08/28 10:40:55::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/28 10:40:55::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/28 10:40:55::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/28 10:40:55::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjutando documento: C:/Users/jvolpe/Documents/PHP/php-webdriver-community/php-webdriver-community/prueba.jpg
+2018/08/28 10:40:55::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Adjunto exitoso del documento
+2018/08/28 10:40:55::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Esperando a que cargue el boton de Enviar
+2018/08/28 10:40:56::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Boton cargado
+2018/08/28 10:40:56::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando
+2018/08/28 10:40:56::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Envio exitoso de adjunto
+2018/08/28 10:40:56::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrando Menu
+2018/08/28 10:40:56::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Cerrado correctamente
+2018/08/28 10:40:56::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Proceso enviar adjunto termino correctamente 
+2018/08/28 10:40:56::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando 1 segundos para terminar esta lina
+2018/08/28 10:40:57::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Espera terminada 
+2018/08/28 10:40:57::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Obteniendo ultimos mensajes 
+2018/08/28 10:40:58::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Ultimo mensaje obtenido correctamente 
+2018/08/28 10:40:58::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando a que aparezcan los checks en el ultimo mensaje
+2018/08/28 10:41:00::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecio el check en el ultimo mensaje
+2018/08/28 10:41:00::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::ENVIO DE ADJUNTO AL NUMERO 59898954749 FUE UN EXITO
+2018/08/28 10:41:00::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::Leyendo linea 59898954749;Te voy a enviar un adjunto
+2018/08/28 10:41:00::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Accediendo al sitio 
+2018/08/28 10:41:00::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando el boton enviar 
+2018/08/28 10:41:00::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Boton enviar clickeado 
+2018/08/28 10:41:00::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando hasta que aparezcan los chats 
+2018/08/28 10:41:04::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecieron los chats 
+2018/08/28 10:41:04::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar mensaje ya escrito 
+2018/08/28 10:41:05::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+2018/08/28 10:41:05::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar adjunto 
+2018/08/28 10:41:05::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+2018/08/28 10:41:05::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+2018/08/28 10:41:05::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+2018/08/28 10:41:05::Metodo(MAIN ENVIAR MASIVO)::Numero_Contacto()::unknown error: Element <div role="button" title="Adjuntar">...</div> is not clickable at point (946, 29). Other element would receive the click: <div class="_2dA13">...</div>
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:65151}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 78b98e91ae717474e7123faa10af2d3d
+30/08/2018 12:30:19::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::------- INICIO ENVIO MASIVO: 30/08/2018 12:30:19  --------- 
+30/08/2018 12:30:19::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::Leyendo linea 59898954749;Te voy a enviar un adjunto
+30/08/2018 12:30:19::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Accediendo al sitio 
+03/09/2018 14:58:27::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::------- INICIO ENVIO MASIVO: 03/09/2018 14:58:27  --------- 
+03/09/2018 14:58:27::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto()::Leyendo linea 59898954749;Te voy a enviar un adjunto
+03/09/2018 14:58:27::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Accediendo al sitio 
+03/09/2018 14:58:29::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando el boton enviar 
+03/09/2018 14:58:29::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Boton enviar clickeado 
+03/09/2018 14:58:29::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Esperando hasta que aparezcan los chats 
+03/09/2018 14:58:37::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Aparecieron los chats 
+03/09/2018 14:58:37::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar mensaje ya escrito 
+03/09/2018 14:58:37::Metodo(enviar_mensaje_ya_escrito)::Numero_Contacto(59898954749)::Envio de mensaje Exitoso
+03/09/2018 14:58:37::Metodo(MAIN ENVIO MASIVO)::Numero_Contacto(59898954749)::Empezando proceso enviar adjunto 
+03/09/2018 14:58:37::Metodo(enviar_adjunto_archivo)::Numero_Contacto(59898954749)::Enviando adjunto archivo
+03/09/2018 14:58:37::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respondiendo a: Envio Masivo
+03/09/2018 14:58:37::Metodo(enviar_mensaje)::Numero_Contacto(59898954749)::Respuesta Exitosa
+03/09/2018 14:58:37::Metodo(MAIN ENVIAR MASIVO)::Numero_Contacto()::unknown error: Element <div role="button" title="Adjuntar">...</div> is not clickable at point (946, 29). Other element would receive the click: <div class="_2dA13">...</div>
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:05:20.749Z'
+System info: host: 'JVOLPE', ip: '192.168.66.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\jvolpe\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57960}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 8c9b101b443b7174601a85c84a4d9341
+19/09/2018 14:14:13::Metodo(MAIN)::Numero_Contacto()::----------- INICIO: 19/09/2018 14:14:13  -------------- 
